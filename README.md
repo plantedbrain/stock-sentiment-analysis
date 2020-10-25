@@ -1,5 +1,5 @@
 # stock-sentiment-analysis
-# Stock Sentiment Analysis Using News Headlines  
+# Stock Sentiment Analysis Using News Headlines (Kaggle)
 The models were trained twice. So your values may change.    
   
   **RandomForestClassifier using Bag Of Words(BOW):**  
