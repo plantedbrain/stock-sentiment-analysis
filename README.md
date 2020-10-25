@@ -14,6 +14,6 @@ The models were trained twice. So your values may change.
   
   <img src="https://user-images.githubusercontent.com/51167811/97107999-8983a400-16f0-11eb-9058-e9f6d1491516.PNG" width="55%"></img>   
   
-  **Naive Bayes using Bag Of TF-IDF:**  
+  **Naive Bayes using TF-IDF:**  
   
   <img src="https://user-images.githubusercontent.com/51167811/97108045-ccde1280-16f0-11eb-9ad8-169207b81cb6.PNG" width="55%"></img> 
